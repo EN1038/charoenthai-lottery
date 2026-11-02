@@ -1,4 +1,24 @@
 {
   "name": "MyApp",
-  "displayName": "MyApp"
+  "displayName": "เจริญไทย หวยออนไลน์",
+  "expo": {
+    "name": "เจริญไทย หวยออนไลน์",
+    "slug": "charoenthai-lottery",
+    "version": "2.2",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.rushdrivemhkd.app",
+      "supportsTablet": false,
+      "deploymentTarget": "16.4"
+    },
+    "android": {
+      "package": "com.rushdrivemhkd.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "875391fc-620b-4ff9-8e39-d688c15a21b3"
+      }
+    },
+    "owner": "enx1038"
+  }
 }

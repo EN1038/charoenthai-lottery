@@ -1,0 +1,276 @@
+{
+  "project_info": {
+    "project_number": "243643332155",
+    "project_id": "android-notification-e087c",
+    "storage_bucket": "android-notification-e087c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:c8bfe0b9c7e255f39f8e1e",
+        "android_client_info": {
+          "package_name": "com.HopixDevStudio.SkyHopixEndlessBounce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:c3a8e129226061619f8e1e",
+        "android_client_info": {
+          "package_name": "com.SpiderBlack.Wizzardadventure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:3797febd09cd2bed9f8e1e",
+        "android_client_info": {
+          "package_name": "com.color.gate.runner.afzaal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:b453ee1601d883dc9f8e1e",
+        "android_client_info": {
+          "package_name": "com.crystalmind.gempuzzle.adventure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:048fa132687df51a9f8e1e",
+        "android_client_info": {
+          "package_name": "com.ferds.thord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:825024b442ddbbc19f8e1e",
+        "android_client_info": {
+          "package_name": "com.gamelabstudio.nonogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:e90985058559c74e9f8e1e",
+        "android_client_info": {
+          "package_name": "com.hpk.macrolog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:1c1101b0a525732b9f8e1e",
+        "android_client_info": {
+          "package_name": "com.pgslotdee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:902ca239e7c658549f8e1e",
+        "android_client_info": {
+          "package_name": "com.robot.emotion.repair.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:475c8fde097d06c79f8e1e",
+        "android_client_info": {
+          "package_name": "com.rushdrivemhkd.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:1d1b25fe7a2f71e19f8e1e",
+        "android_client_info": {
+          "package_name": "com.tap.the.box.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:7aef69d6cae3371e9f8e1e",
+        "android_client_info": {
+          "package_name": "com.transaltor.ary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:5a5798d940be0c039f8e1e",
+        "android_client_info": {
+          "package_name": "com.wishvault.app.wishvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243643332155:android:9cd5ad6ada76ae329f8e1e",
+        "android_client_info": {
+          "package_name": "game.animal.chess.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89xuL3yeue01NNj7kZhun_LsnNCE9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
